@@ -1,0 +1,1851 @@
+[
+  {
+    "question": "Quelle est la définition d'une grandeur physique ? (ref cours 1)",
+    "choix": [
+      "Une propriété de la nature pouvant être quantifiée par une mesure ou un calcul",
+      "Un phénomène naturel observable mais non mesurable",
+      "Une unité de mesure spécifique aux sciences physiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les éléments de base du système international d'unités (SI) ? (ref cours 1)",
+    "choix": [
+      "Mètre, Kilogramme, Seconde, Ampère, Kelvin, Mole, Candela",
+      "Volt, Watt, Joule, Pascal, Kelvin",
+      "Litre, Gramme, Seconde, Newton, Hertz"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce que l'analyse du cycle de vie (ACV) ? (ref cours 1)",
+    "choix": [
+      "Une évaluation des effets directs et indirects d’un produit sur l’environnement, de sa fabrication à son élimination",
+      "Une méthode permettant de mesurer l’efficacité énergétique d’un datacenter",
+      "Une approche utilisée uniquement dans l'industrie manufacturière"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la principale cause de l’impact environnemental du numérique ? (ref cours 1)",
+    "choix": [
+      "La fabrication des équipements",
+      "L’utilisation quotidienne des appareils",
+      "Le stockage des données en ligne"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le pourcentage des émissions mondiales de CO2 imputé au numérique selon l'ADEME 2022 ? (ref cours 1)",
+    "choix": ["4%", "10%", "1%"],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle norme encadre la responsabilité sociétale des entreprises (RSE) ? (ref cours 1)",
+    "choix": ["ISO 26000", "ISO 50001", "ISO 14001"],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les trois piliers du développement durable selon la RSE ? (ref cours 1)",
+    "choix": [
+      "Économie, Environnement, Social",
+      "Technologie, Juridique, Environnement",
+      "Industrie, Consommation, Transport"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la part des équipements dans l'empreinte carbone du numérique ? (ref cours 1)",
+    "choix": ["80%", "50%", "30%"],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est un des impacts sociaux du numérique ? (ref cours 1)",
+    "choix": [
+      "L’augmentation de la fracture numérique",
+      "La réduction des inégalités sociales",
+      "Une neutralité totale sur le plan social"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la gouvernance des entreprises est-elle un enjeu clé dans le numérique responsable ? (ref cours 1)",
+    "choix": [
+      "Elle définit des règles pour encadrer les impacts éthiques, sociaux et environnementaux",
+      "Elle permet d’optimiser la consommation d’énergie des datacenters",
+      "Elle garantit que toutes les entreprises utilisent des énergies renouvelables"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce que l'effet rebond dans le numérique ? (ref cours 1)",
+    "choix": [
+      "L'augmentation de la consommation énergétique due aux gains d'efficacité technologique",
+      "La diminution de la consommation d’énergie grâce à l’optimisation des datacenters",
+      "La récupération d’énergie produite par les équipements numériques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est l'empreinte carbone annuelle moyenne d'un Français liée au numérique ? (ref cours 1)",
+    "choix": ["2,1 tonnes de CO2", "10 tonnes de CO2", "500 kg de CO2"],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux impacts environnementaux du numérique ? (ref cours 1)",
+    "choix": [
+      "Épuisement des ressources, consommation énergétique, émissions de CO2",
+      "Diminution des émissions de CO2, réduction de la consommation d’eau, recyclage optimal",
+      "Aucun impact significatif sur l'environnement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi le recyclage des équipements numériques est-il problématique ? (ref cours 1)",
+    "choix": [
+      "Le faible taux de collecte et la miniaturisation des composants",
+      "La forte rentabilité du recyclage",
+      "L’absence d’impact environnemental des composants électroniques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les enjeux du numérique responsable ? (ref cours 1)",
+    "choix": [
+      "Performance, Sécurité, Souveraineté, Réduction des impacts environnementaux",
+      "Optimisation des publicités en ligne, Augmentation du stockage cloud, Réduction des coûts",
+      "Automatisation des processus, Accroissement du commerce en ligne, Investissement dans la 5G"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les trois axes du concept ESG (Environnement, Social, Gouvernance) ? (ref cours 1)",
+    "choix": [
+      "Environnement, Social, Gouvernance",
+      "Écologie, Sécurité, Gestion",
+      "Technologie, Innovation, Économie"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la principale source d'énergie des datacenters aujourd'hui ? (ref cours 1)",
+    "choix": [
+      "Énergies fossiles",
+      "Énergies renouvelables",
+      "Énergie nucléaire uniquement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le principal facteur influençant la consommation d’énergie des datacenters ? (ref cours 1)",
+    "choix": [
+      "Le refroidissement des serveurs",
+      "L'utilisation des énergies renouvelables",
+      "Le type de processeur utilisé"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Combien de temps un Français passe-t-il en moyenne devant un écran par semaine ? (ref cours 1)",
+    "choix": [
+      "Plus de 30 heures",
+      "Entre 10 et 20 heures",
+      "Moins de 10 heures"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le principal défi du numérique responsable pour les entreprises ? (ref cours 1)",
+    "choix": [
+      "Trouver un équilibre entre performance et impact environnemental",
+      "Réduire les coûts de production sans changer les pratiques",
+      "Ne pas tenir compte des normes environnementales"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux impacts du numérique ? (ref cours 1)",
+    "choix": [
+      "Environnementaux, sociaux, éthiques et économiques",
+      "Uniquement environnementaux",
+      "Uniquement économiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le principal impact environnemental du numérique ? (ref cours 1)",
+    "choix": [
+      "La consommation d’énergie et les émissions de CO2",
+      "L’utilisation de l’eau pour le refroidissement des data centers",
+      "L’augmentation de la vitesse des réseaux"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle part du CO2 émis par le numérique est attribuée aux data centers ? (ref cours 1)",
+    "choix": ["15%", "30%", "50%"],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle est la durée de vie moyenne d'un smartphone aujourd'hui ? (ref cours 1)",
+    "choix": ["2 à 3 ans", "5 à 7 ans", "10 ans"],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la fabrication des équipements numériques a-t-elle un impact élevé ? (ref cours 1)",
+    "choix": [
+      "Extraction des métaux rares, consommation d'énergie et pollution",
+      "Transport des composants uniquement",
+      "Utilisation quotidienne des appareils"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le principal problème lié à l'obsolescence programmée des appareils numériques ? (ref cours 1)",
+    "choix": [
+      "Augmentation des déchets électroniques",
+      "Amélioration de la performance des nouveaux appareils",
+      "Réduction de la consommation énergétique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu’est-ce que la fracture numérique ? (ref cours 1)",
+    "choix": [
+      "L’inégalité d’accès aux outils numériques",
+      "Une panne généralisée d’Internet",
+      "Une augmentation du débit des réseaux"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l'un des effets négatifs des réseaux sociaux ? (ref cours 1)",
+    "choix": [
+      "Augmentation de la désinformation",
+      "Réduction de la pollution numérique",
+      "Amélioration du bien-être mental"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le principal défi pour rendre les data centers plus écologiques ? (ref cours 1)",
+    "choix": [
+      "Optimiser leur refroidissement et utiliser des énergies renouvelables",
+      "Augmenter la vitesse de traitement des serveurs",
+      "Diminuer la taille des racks informatiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu’est-ce que l’économie circulaire appliquée au numérique ? (ref cours 1)",
+    "choix": [
+      "Réutilisation, réparation et recyclage des équipements",
+      "Augmentation du stockage dans le cloud",
+      "Utilisation des technologies de blockchain"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi les terres rares sont-elles problématiques pour l’industrie numérique ? (ref cours 1)",
+    "choix": [
+      "Rareté, impact environnemental de l’extraction et dépendance aux pays producteurs",
+      "Manque de rentabilité pour les fabricants",
+      "Faible demande dans le secteur technologique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle solution permet de réduire l'impact carbone du numérique ? (ref cours 1)",
+    "choix": [
+      "Éco-conception des logiciels et matériels",
+      "Augmentation du nombre de data centers",
+      "Utilisation exclusive des réseaux 5G"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l'impact de la vidéo en streaming sur l’environnement ? (ref cours 1)",
+    "choix": [
+      "Consommation énergétique élevée due aux data centers",
+      "Aucun impact significatif",
+      "Réduction de la consommation électrique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la principale conséquence du cloud computing sur l’environnement ? (ref cours 1)",
+    "choix": [
+      "Augmentation de la consommation énergétique et des émissions de CO2",
+      "Réduction des besoins en matériel informatique",
+      "Amélioration de la vitesse des réseaux"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le rôle de la norme ISO 14001 dans le numérique responsable ? (ref cours 1)",
+    "choix": [
+      "Encadrer les démarches de management environnemental",
+      "Réglementer la sécurité des données",
+      "Normer la qualité des processeurs informatiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels critères sont pris en compte dans l’évaluation de l’impact environnemental d’un service numérique ? (ref cours 1)",
+    "choix": [
+      "Consommation énergétique, émissions de CO2, cycle de vie du matériel",
+      "Nombre d’utilisateurs et temps passé en ligne",
+      "Popularité de l’application"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la meilleure pratique pour réduire la pollution numérique ? (ref cours 1)",
+    "choix": [
+      "Utiliser des appareils plus longtemps et privilégier le reconditionné",
+      "Acheter un nouveau téléphone chaque année",
+      "Supprimer les cookies de navigation régulièrement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi le droit à la déconnexion est-il important dans le numérique responsable ? (ref cours 1)",
+    "choix": [
+      "Il permet de préserver le bien-être mental et physique des employés",
+      "Il limite la consommation énergétique des entreprises",
+      "Il empêche les cyberattaques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l’objectif du Green IT ? (ref cours 1)",
+    "choix": [
+      "Réduire l’impact environnemental des technologies de l’information",
+      "Augmenter la production de matériel informatique",
+      "Supprimer les anciennes technologies au profit des nouvelles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le rôle des entreprises dans la réduction de l'impact environnemental du numérique ? (ref cours 1)",
+    "choix": [
+      "Adopter des pratiques de Green IT et favoriser l'éco-conception",
+      "Encourager la surconsommation d’équipements",
+      "Imposer l’utilisation exclusive du cloud"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la principale source d'émissions de CO2 dans le cycle de vie d'un équipement numérique ? (ref cours 1)",
+    "choix": [
+      "La phase de fabrication",
+      "L'utilisation quotidienne",
+      "Le recyclage en fin de vie"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi l'extraction des matières premières est-elle un enjeu environnemental majeur ? (ref cours 1)",
+    "choix": [
+      "Elle entraîne la destruction des écosystèmes et la pollution des sols et de l’eau",
+      "Elle réduit les coûts de production des appareils",
+      "Elle permet une meilleure durabilité des équipements"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle quantité de métaux rares un smartphone contient-il en moyenne ? (ref cours 1)",
+    "choix": ["30 à 50 mg", "300 mg à 1 g", "10 à 15 g"],
+    "reponse": 2
+  },
+  {
+    "question": "Pourquoi l'obsolescence logicielle est-elle un problème pour le numérique responsable ? (ref cours 1)",
+    "choix": [
+      "Elle rend les appareils inutilisables avant la fin de leur cycle de vie matériel",
+      "Elle améliore la sécurité des logiciels",
+      "Elle réduit l'empreinte carbone des équipements"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle part des déchets électroniques est réellement recyclée dans le monde ? (ref cours 1)",
+    "choix": ["Moins de 20%", "Entre 40 et 50%", "Plus de 75%"],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi les data centers consomment-ils autant d’énergie ? (ref cours 1)",
+    "choix": [
+      "Ils doivent refroidir en permanence leurs serveurs",
+      "Leurs serveurs sont inefficaces énergétiquement",
+      "Ils sont situés dans des régions chaudes uniquement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le principal défi du recyclage des équipements numériques ? (ref cours 1)",
+    "choix": [
+      "La complexité de séparation des matériaux et des métaux rares",
+      "Le coût trop élevé du recyclage",
+      "L’absence de solutions technologiques pour le recyclage"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel type d'énergie est principalement utilisé par les data centers aujourd'hui ? (ref cours 1)",
+    "choix": [
+      "Énergies fossiles",
+      "Énergies renouvelables",
+      "Énergie nucléaire uniquement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment limiter l'impact du stockage en ligne sur l'environnement ? (ref cours 1)",
+    "choix": [
+      "Supprimer les fichiers inutiles et utiliser des services cloud éco-responsables",
+      "Augmenter la capacité des data centers",
+      "Stocker plus de données en local sur les appareils"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce que le numérique responsable ? (ref cours 1)",
+    "choix": [
+      "Une approche visant à réduire l'impact environnemental et social des technologies numériques",
+      "Un concept de développement de nouvelles technologies innovantes",
+      "Un label attribué aux entreprises du secteur numérique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles sont les principales causes de l'augmentation de la consommation énergétique du numérique ? (ref cours 1)",
+    "choix": [
+      "Augmentation du streaming vidéo, des services cloud et des objets connectés",
+      "Réduction du nombre de data centers",
+      "Utilisation de smartphones plus performants"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce que l'éco-conception dans le numérique ? (ref cours 1)",
+    "choix": [
+      "La conception de services numériques optimisés pour réduire leur impact environnemental",
+      "Le développement de technologies à bas coût",
+      "L’optimisation des performances des processeurs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi le reconditionnement des équipements numériques est-il une solution écologique ? (ref cours 1)",
+    "choix": [
+      "Il permet d’éviter la fabrication d’un nouvel appareil et prolonge la durée de vie des équipements",
+      "Il réduit la consommation d’énergie des appareils",
+      "Il permet d’avoir des appareils neufs à moindre coût"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la principale raison de la pollution générée par les emails ? (ref cours 1)",
+    "choix": [
+      "Le stockage des emails sur les serveurs nécessite de l'énergie",
+      "L'envoi d'emails génère directement du CO2",
+      "Les emails utilisent des encres polluantes pour leur affichage"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment réduire l'empreinte carbone de ses emails ? (ref cours 1)",
+    "choix": [
+      "Supprimer les emails inutiles et limiter les pièces jointes lourdes",
+      "Envoyer plus d’emails pour optimiser les serveurs",
+      "Utiliser uniquement une messagerie instantanée"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi les réseaux 5G consomment-ils moins d'énergie par bit transmis que la 4G ? (ref cours 1)",
+    "choix": [
+      "Ils sont conçus pour être plus efficaces énergétiquement",
+      "Ils utilisent des antennes plus grandes",
+      "Ils fonctionnent uniquement sur des énergies renouvelables"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l'impact des objets connectés sur l’environnement ? (ref cours 1)",
+    "choix": [
+      "Ils augmentent la consommation d’énergie et génèrent plus de déchets électroniques",
+      "Ils permettent de mieux gérer les ressources énergétiques",
+      "Ils n'ont aucun impact significatif"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi l’intelligence artificielle pose-t-elle des défis environnementaux ? (ref cours 1)",
+    "choix": [
+      "Elle nécessite des calculs intensifs qui consomment beaucoup d’énergie",
+      "Elle permet d’optimiser la consommation énergétique",
+      "Elle fonctionne uniquement sur des énergies renouvelables"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce que le concept de Green IT ? (ref cours 2)",
+    "choix": [
+      "Une approche visant à réduire l'impact environnemental des technologies numériques",
+      "Un programme gouvernemental pour réduire les déchets électroniques",
+      "Une norme européenne pour les entreprises technologiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce que l’IT for Green ? (ref cours 2)",
+    "choix": [
+      "L'utilisation des technologies numériques pour réduire l'impact des autres industries sur l'environnement",
+      "Une initiative pour interdire les équipements informatiques polluants",
+      "Une certification pour les entreprises du numérique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les acteurs traditionnels de l’IT ? (ref cours 2)",
+    "choix": [
+      "Constructeurs, éditeurs, hébergeurs et prestataires",
+      "Associations environnementales et ONG",
+      "Les agences gouvernementales uniquement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les acteurs spécialisés de l’impact environnemental du numérique ? (ref cours 2)",
+    "choix": [
+      "Filières de valorisation et entreprises de mesure d'impact",
+      "Développeurs indépendants",
+      "Les réseaux sociaux et les plateformes de streaming"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux objectifs du Green IT ? (ref cours 2)",
+    "choix": [
+      "Réduire la consommation énergétique des équipements informatiques et limiter l'obsolescence",
+      "Augmenter la capacité des centres de données",
+      "Encourager l'utilisation de nouvelles technologies sans considération environnementale"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les avantages du Green IT pour une entreprise ? (ref cours 2)",
+    "choix": [
+      "Réduction des coûts énergétiques et meilleure image de marque",
+      "Augmentation de la vitesse de traitement des serveurs",
+      "Diminution de l'efficacité des infrastructures numériques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le principal impact des centres de données sur l'environnement ? (ref cours 2)",
+    "choix": [
+      "Consommation énergétique élevée et rejet de CO2",
+      "Émission de gaz toxiques",
+      "Production de déchets électroniques uniquement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment améliorer l'efficacité énergétique des data centers ? (ref cours 2)",
+    "choix": [
+      "Utilisation de systèmes de refroidissement optimisés et énergies renouvelables",
+      "Augmentation de la fréquence des serveurs",
+      "Réduction du nombre de serveurs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les indicateurs utilisés pour mesurer l'efficacité énergétique d'un data center ? (ref cours 2)",
+    "choix": [
+      "PUE (Power Usage Effectiveness) et WUE (Water Usage Effectiveness)",
+      "Taux de croissance du trafic Internet",
+      "Nombre de clients hébergés"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l'objectif des Objectifs de Développement Durable (ODD) liés au numérique ? (ref cours 2)",
+    "choix": [
+      "Réduire l'empreinte écologique et améliorer l'accessibilité aux technologies",
+      "Augmenter la production d'équipements électroniques",
+      "Interdire l'usage du numérique dans certaines régions"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Que signifie l'indicateur CUE (Carbon Usage Effectiveness) ? (ref cours 2)",
+    "choix": [
+      "Il mesure l'efficacité des émissions de CO2 dans un centre de données",
+      "Il mesure la consommation d'eau des infrastructures IT",
+      "Il indique la capacité de stockage des serveurs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l'un des principaux défis du recyclage des équipements informatiques ? (ref cours 2)",
+    "choix": [
+      "La difficulté de récupération et de traitement des métaux rares",
+      "Le manque de réglementation en matière de déchets électroniques",
+      "Le faible coût des matériaux recyclés"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les avantages des jumeaux numériques dans une stratégie IT for Green ? (ref cours 2)",
+    "choix": [
+      "Ils permettent de simuler et d'optimiser des processus industriels pour limiter l'impact environnemental",
+      "Ils augmentent la vitesse de traitement des données",
+      "Ils réduisent la consommation énergétique des bâtiments"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la gestion durable des équipements informatiques est-elle importante ? (ref cours 2)",
+    "choix": [
+      "Elle permet de prolonger la durée de vie des équipements et de réduire les déchets électroniques",
+      "Elle améliore les performances des logiciels",
+      "Elle favorise l'obsolescence des équipements"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le rôle des fournisseurs dans la transition vers un numérique responsable ? (ref cours 2)",
+    "choix": [
+      "Proposer des équipements plus durables et favoriser le recyclage",
+      "Encourager la consommation d'équipements neufs",
+      "Imposer des mises à jour logicielles plus fréquentes"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels critères sont souvent inclus dans un marché public pour favoriser le numérique responsable ? (ref cours 2)",
+    "choix": [
+      "Clause d'insertion sociale, chaîne de responsabilité et valorisation des équipements",
+      "Exclusivité des fournisseurs internationaux",
+      "Obligation d'achat d'équipements neufs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l'intérêt du Cloud dans une stratégie de Green IT ? (ref cours 2)",
+    "choix": [
+      "Optimisation des ressources et mutualisation des infrastructures pour une meilleure efficacité énergétique",
+      "Diminution du besoin en infrastructures physiques",
+      "Augmentation du nombre d'équipements informatiques nécessaires"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi les énergies renouvelables sont-elles essentielles pour un numérique responsable ? (ref cours 2)",
+    "choix": [
+      "Elles permettent de réduire l’empreinte carbone des infrastructures numériques",
+      "Elles rendent les serveurs plus performants",
+      "Elles augmentent la vitesse des connexions Internet"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels types d’actions peuvent être mises en place pour un numérique responsable ? (ref cours 2)",
+    "choix": [
+      "Sensibilisation, optimisation des infrastructures et choix d’équipements durables",
+      "Augmentation du volume des équipements informatiques",
+      "Investissement uniquement dans de nouvelles technologies"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la définition du Green IT ? (ref cours 2)",
+    "choix": [
+      "Une approche visant à réduire l'impact environnemental des technologies numériques",
+      "Une norme de cybersécurité pour les entreprises",
+      "Un programme gouvernemental pour recycler les équipements numériques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la différence entre Green IT et IT for Green ? (ref cours 2)",
+    "choix": [
+      "Le Green IT concerne l’optimisation des technologies numériques, tandis que l’IT for Green vise à utiliser l’informatique pour améliorer la gestion environnementale",
+      "Le Green IT est un concept dépassé, remplacé par l’IT for Green",
+      "L’IT for Green se concentre sur la fabrication des équipements numériques, tandis que le Green IT concerne leur utilisation"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les impacts négatifs du numérique sur l’environnement ? (ref cours 2)",
+    "choix": [
+      "Consommation d’énergie, émissions de CO2, épuisement des ressources naturelles et production de déchets électroniques",
+      "Augmentation des capacités de stockage des données",
+      "Baisse des coûts des équipements informatiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la gestion du cycle de vie des équipements numériques est-elle un enjeu important ? (ref cours 2)",
+    "choix": [
+      "Parce qu’elle permet de réduire les déchets électroniques et l’impact carbone",
+      "Parce qu’elle favorise l’innovation technologique",
+      "Parce qu’elle ralentit le développement du numérique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux acteurs traditionnels du marché de l’informatique ? (ref cours 2)",
+    "choix": [
+      "Les constructeurs, les éditeurs, les hébergeurs et les prestataires de services",
+      "Les organisations gouvernementales",
+      "Les consommateurs finaux uniquement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les enjeux du marché de l’IT en matière de développement durable ? (ref cours 2)",
+    "choix": [
+      "Réduction des émissions de CO2, recyclage des équipements et utilisation d’énergies renouvelables",
+      "Augmentation du nombre d’appareils connectés",
+      "Rendre les équipements numériques plus accessibles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels indicateurs sont utilisés pour mesurer l’impact environnemental des data centers ? (ref cours 2)",
+    "choix": [
+      "PUE (Power Usage Effectiveness), WUE (Water Usage Effectiveness), CUE (Carbon Usage Effectiveness)",
+      "Nombre de serveurs actifs",
+      "Taux de croissance du stockage des données"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi le PUE (Power Usage Effectiveness) est-il un indicateur clé pour les data centers ? (ref cours 2)",
+    "choix": [
+      "Parce qu’il permet de mesurer l’efficacité énergétique en comparant l’énergie totale consommée à l’énergie utilisée pour le refroidissement",
+      "Parce qu’il indique la puissance de calcul d’un serveur",
+      "Parce qu’il mesure la vitesse d’accès aux données stockées"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles solutions permettent de réduire l’impact environnemental des data centers ? (ref cours 2)",
+    "choix": [
+      "Utilisation d’énergies renouvelables, amélioration du refroidissement et optimisation des serveurs",
+      "Augmentation de la capacité des centres de données",
+      "Stockage des données uniquement sur des disques durs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le rôle des marchés publics dans le numérique responsable ? (ref cours 2)",
+    "choix": [
+      "Ils imposent des clauses environnementales et sociales aux fournisseurs IT",
+      "Ils obligent les entreprises à acheter des équipements neufs",
+      "Ils favorisent la production d’équipements électroniques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi le recyclage des équipements numériques est-il un enjeu majeur ? (ref cours 2)",
+    "choix": [
+      "Parce qu’il permet de récupérer des matériaux rares et de réduire la pollution",
+      "Parce qu’il augmente la consommation d’électricité",
+      "Parce qu’il limite l’innovation technologique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les bénéfices économiques du Green IT pour les entreprises ? (ref cours 2)",
+    "choix": [
+      "Réduction des coûts énergétiques et optimisation des infrastructures IT",
+      "Augmentation du coût des équipements",
+      "Diminution de la sécurité des infrastructures"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le principal défi des entreprises pour adopter une démarche de Green IT ? (ref cours 2)",
+    "choix": [
+      "Le coût initial des investissements et la transformation des infrastructures existantes",
+      "La résistance des utilisateurs aux nouvelles technologies",
+      "Le manque de connectivité des équipements"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux axes d’amélioration du numérique responsable ? (ref cours 2)",
+    "choix": [
+      "Éco-conception des services numériques, optimisation énergétique et sensibilisation des utilisateurs",
+      "Augmentation du stockage cloud et multiplication des équipements",
+      "Interdiction de certains services numériques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment la réglementation encourage-t-elle l’adoption du numérique responsable ? (ref cours 2)",
+    "choix": [
+      "En imposant des normes environnementales et des certifications aux entreprises",
+      "En interdisant la vente de certains équipements électroniques",
+      "En favorisant l’augmentation du nombre de data centers"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles pratiques un utilisateur peut-il adopter pour limiter son impact numérique ? (ref cours 2)",
+    "choix": [
+      "Réduire le stockage cloud inutile, prolonger la durée de vie des équipements et limiter le streaming vidéo",
+      "Acheter un nouvel appareil chaque année pour bénéficier des dernières innovations",
+      "Utiliser uniquement des services gratuits"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce que le Green IT ? (ref cours 2)",
+    "choix": [
+      "Une approche visant à réduire l'impact environnemental des technologies numériques",
+      "Une technologie pour augmenter la puissance des processeurs",
+      "Une loi pour interdire l'obsolescence programmée"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principes fondamentaux du Green IT ? (ref cours 2)",
+    "choix": [
+      "Réduction de la consommation énergétique, recyclage, optimisation des infrastructures numériques",
+      "Augmentation de la performance des ordinateurs",
+      "Développement de nouvelles technologies sans considération environnementale"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la différence entre Green IT et IT for Green ? (ref cours 2)",
+    "choix": [
+      "Green IT optimise l’usage des technologies numériques, tandis que IT for Green utilise l’informatique pour améliorer l’environnement",
+      "IT for Green est une nouvelle norme de cybersécurité",
+      "Green IT est limité à la gestion des déchets électroniques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les impacts environnementaux du numérique ? (ref cours 2)",
+    "choix": [
+      "Consommation énergétique, émissions de CO2, épuisement des ressources naturelles, production de déchets électroniques",
+      "Augmentation de la productivité des entreprises",
+      "Facilitation des télécommunications à grande échelle"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi le numérique est-il un secteur énergivore ? (ref cours 2)",
+    "choix": [
+      "Parce qu’il repose sur une infrastructure massive nécessitant des centres de données, des réseaux et des appareils connectés",
+      "Parce qu’il consomme uniquement de l’énergie renouvelable",
+      "Parce que les appareils numériques génèrent leur propre énergie"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux enjeux du marché IT face aux défis environnementaux ? (ref cours 2)",
+    "choix": [
+      "Réduction des émissions de CO2, gestion des déchets électroniques et passage aux énergies renouvelables",
+      "Augmenter la vitesse des réseaux 5G et l’autonomie des smartphones",
+      "Interdire l’utilisation de technologies anciennes"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles sont les solutions pour rendre les data centers plus écologiques ? (ref cours 2)",
+    "choix": [
+      "Optimisation du refroidissement, utilisation d’énergies renouvelables et virtualisation des serveurs",
+      "Augmentation du nombre de serveurs",
+      "Stockage des données uniquement sur des disques physiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Que mesure l'indicateur PUE (Power Usage Effectiveness) ? (ref cours 2)",
+    "choix": [
+      "L’efficacité énergétique d’un data center en comparant l’énergie totale consommée à celle utilisée pour le refroidissement",
+      "La puissance des serveurs informatiques",
+      "Le taux d’occupation d’un centre de données"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles pratiques permettent d’améliorer l'efficacité énergétique des infrastructures IT ? (ref cours 2)",
+    "choix": [
+      "Éco-conception des logiciels, mutualisation des ressources et suppression des équipements inutiles",
+      "Augmenter la fréquence des mises à jour logicielles",
+      "Interdire l’utilisation des ordinateurs en entreprise"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi l'économie circulaire est-elle importante dans le numérique ? (ref cours 2)",
+    "choix": [
+      "Elle permet de recycler, réutiliser et prolonger la durée de vie des équipements informatiques",
+      "Elle favorise l’achat de nouveaux équipements",
+      "Elle réduit la consommation de données mobiles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce que l’obsolescence programmée dans le numérique ? (ref cours 2)",
+    "choix": [
+      "Une stratégie visant à limiter la durée de vie d’un produit pour inciter à son remplacement",
+      "Une norme de mise à jour des systèmes d’exploitation",
+      "Une politique gouvernementale pour renouveler les équipements tous les 5 ans"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le rôle des entreprises dans la transition vers un numérique responsable ? (ref cours 2)",
+    "choix": [
+      "Adopter des pratiques éco-responsables, optimiser la consommation énergétique et promouvoir le recyclage",
+      "Supprimer les services en ligne pour réduire la pollution",
+      "Encourager la surconsommation numérique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment les utilisateurs peuvent-ils réduire leur impact numérique ? (ref cours 2)",
+    "choix": [
+      "Réduire le stockage cloud inutile, optimiser la gestion des emails et prolonger la durée de vie de leurs équipements",
+      "Acheter un nouvel appareil tous les ans",
+      "Utiliser uniquement des services numériques gratuits"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les avantages du Cloud Computing dans une stratégie Green IT ? (ref cours 2)",
+    "choix": [
+      "Optimisation des ressources, mutualisation des infrastructures et réduction de l’empreinte carbone",
+      "Augmentation du nombre de serveurs physiques",
+      "Diminution du volume de stockage"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi l’optimisation des logiciels est-elle essentielle dans un numérique responsable ? (ref cours 2)",
+    "choix": [
+      "Elle permet de réduire la consommation des ressources matérielles et d’améliorer l'efficacité énergétique",
+      "Elle accélère les mises à jour des applications",
+      "Elle réduit la taille des écrans des smartphones"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l’objectif des réglementations sur le numérique responsable ? (ref cours 2)",
+    "choix": [
+      "Encadrer les pratiques des entreprises pour limiter l’impact environnemental du numérique",
+      "Interdire l'utilisation des nouvelles technologies",
+      "Obliger les entreprises à acheter des équipements plus performants"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Qu'est-ce qu'un référentiel en numérique responsable ? (ref cours 3)",
+    "choix": [
+      "Un ensemble de bonnes pratiques et de normes visant à encadrer et réduire l'impact environnemental du numérique",
+      "Un guide pour améliorer la rapidité des infrastructures numériques",
+      "Une méthode pour maximiser les profits des entreprises du numérique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la différence entre un label et une certification ? (ref cours 3)",
+    "choix": [
+      "Un label est une auto-déclaration alors qu'une certification est validée par un organisme tiers indépendant",
+      "Une certification est obligatoire pour les entreprises, tandis qu’un label est facultatif",
+      "Un label concerne uniquement les logiciels, tandis qu'une certification s'applique aux équipements"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les 3 principes du numérique responsable selon l’AFNOR SPEC 2201 ? (ref cours 3)",
+    "choix": [
+      "Utile, utilisable, utilisé",
+      "Fiable, rapide, sécurisé",
+      "Écologique, économique, accessible"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Que signifie l'acronyme RGESN ? (ref cours 3)",
+    "choix": [
+      "Référentiel Général d'Écoconception de Services Numériques",
+      "Règlement Général d'Encadrement des Systèmes Numériques",
+      "Réseau de Gestion des Énergies et Services Numériques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les trois piliers d’une démarche d’éco-conception numérique ? (ref cours 3)",
+    "choix": [
+      "Spécifier, mesurer, piloter",
+      "Développer, coder, héberger",
+      "Normer, accélérer, distribuer"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il important d'anticiper la fin de vie d'un service numérique ? (ref cours 3)",
+    "choix": [
+      "Pour prévoir le décommissionnement et éviter les impacts environnementaux inutiles",
+      "Pour accélérer le développement de nouvelles versions",
+      "Pour augmenter les coûts de maintenance"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel cadre réglementaire vise à réduire l’empreinte environnementale du numérique en France ? (ref cours 3)",
+    "choix": [
+      "Loi REEN",
+      "Loi sur la Cybersécurité",
+      "Loi de Protection des Données Personnelles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Que prévoit la loi AGEC (Anti-Gaspillage et Économie Circulaire) ? (ref cours 3)",
+    "choix": [
+      "Limiter le gaspillage numérique et encourager le recyclage des équipements",
+      "Réduire la consommation d’électricité des entreprises informatiques",
+      "Imposer l’utilisation de logiciels libres dans les administrations"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l'objectif de la directive CSRD (Corporate Sustainability Reporting Directive) ? (ref cours 3)",
+    "choix": [
+      "Imposer aux entreprises de publier des informations sur leurs impacts environnementaux",
+      "Obliger les entreprises à utiliser uniquement des data centers en Europe",
+      "Encadrer le développement de logiciels open-source"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l’objectif du référentiel AFNOR SPEC 2201 ? (ref cours 3)",
+    "choix": [
+      "Fournir un cadre méthodologique pour l’éco-conception des services numériques",
+      "Déterminer la quantité minimale d’énergie à utiliser dans un data center",
+      "Standardiser la gestion des bases de données"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il recommandé d’utiliser des technologies standard interopérables ? (ref cours 3)",
+    "choix": [
+      "Pour éviter l’obsolescence rapide et améliorer la durabilité des services numériques",
+      "Pour rendre le développement plus complexe et sécurisé",
+      "Pour limiter la consommation des utilisateurs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les critères environnementaux pris en compte par un écolabel de type 1 ? (ref cours 3)",
+    "choix": [
+      "Impacts sur l’ensemble du cycle de vie du produit, certification indépendante et révision régulière des critères",
+      "Uniquement les émissions de CO2 des équipements informatiques",
+      "La performance énergétique des data centers"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles sont les trois grandes étapes d’un projet numérique éco-conçu ? (ref cours 3)",
+    "choix": [
+      "Stratégie, spécification, architecture",
+      "Conception, déploiement, maintenance",
+      "Utilisation, recyclage, certification"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment un service numérique peut-il optimiser sa gestion des ressources ? (ref cours 3)",
+    "choix": [
+      "En réduisant la sollicitation des serveurs et en utilisant des mécanismes de mise en cache",
+      "En augmentant la puissance de calcul des machines",
+      "En centralisant toutes les données dans un même data center"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels éléments doivent être pris en compte pour une éco-conception efficace d'un service numérique ? (ref cours 3)",
+    "choix": [
+      "Le stockage des données, l’optimisation des interfaces et la réduction des animations inutiles",
+      "La vitesse d’exécution du programme",
+      "Le choix du langage de programmation uniquement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il important de limiter la taille des fichiers dans un service numérique ? (ref cours 3)",
+    "choix": [
+      "Pour réduire la consommation de bande passante et l’impact énergétique des serveurs",
+      "Pour accélérer l’affichage des pages web",
+      "Pour éviter que les utilisateurs téléchargent trop de contenus"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les avantages de l’hébergement éco-responsable ? (ref cours 3)",
+    "choix": [
+      "Réduction des consommations énergétiques et meilleure gestion des infrastructures",
+      "Augmentation de la rapidité des réseaux",
+      "Suppression des fichiers inutiles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi les référentiels Numérique Responsable sont-ils essentiels pour les entreprises ? (ref cours 3)",
+    "choix": [
+      "Ils permettent de structurer une démarche responsable et d’évaluer l’impact environnemental du numérique",
+      "Ils garantissent que toutes les entreprises utilisent les mêmes logiciels",
+      "Ils imposent une durée de vie limitée aux équipements informatiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux référentiels utilisés en France pour un numérique responsable ? (ref cours 3)",
+    "choix": [
+      "Label NR, RGESN, AFNOR SPEC 2201",
+      "ISO 9001, PCI DSS",
+      "HTML5, CSS3, JavaScript"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les objectifs du Label Numérique Responsable (NR) ? (ref cours 3)",
+    "choix": [
+      "Encourager les entreprises à adopter des pratiques numériques plus durables et éthiques",
+      "Garantir la sécurité des systèmes informatiques",
+      "Obliger les entreprises à migrer vers le cloud"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le rôle du RGESN (Référentiel Général d’Écoconception de Services Numériques) ? (ref cours 3)",
+    "choix": [
+      "Fournir des recommandations pour concevoir des services numériques plus sobres et efficaces",
+      "Imposer aux entreprises d’acheter du matériel reconditionné",
+      "Standardiser l’ergonomie des sites web"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les avantages de l’application des référentiels Numérique Responsable pour une entreprise ? (ref cours 3)",
+    "choix": [
+      "Réduction des coûts énergétiques, amélioration de l’image de marque et conformité aux régulations",
+      "Augmentation des performances des serveurs uniquement",
+      "Diminution du nombre d’employés nécessaires dans l’IT"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment un référentiel numérique responsable peut-il aider à limiter l’obsolescence programmée ? (ref cours 3)",
+    "choix": [
+      "En promouvant des pratiques d’éco-conception et en encourageant la réparabilité des équipements",
+      "En interdisant la vente de nouveaux appareils",
+      "En imposant une limite d’utilisation à chaque produit numérique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les impacts d’une mauvaise gestion des équipements numériques sur l’environnement ? (ref cours 3)",
+    "choix": [
+      "Émissions excessives de CO2, augmentation des déchets électroniques et exploitation excessive des ressources naturelles",
+      "Diminution des coûts de production",
+      "Augmentation de la rapidité des services cloud"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la transparence des entreprises sur leur impact numérique est-elle essentielle ? (ref cours 3)",
+    "choix": [
+      "Elle permet aux consommateurs et investisseurs de choisir des entreprises engagées et responsables",
+      "Elle oblige les entreprises à publier leurs bases de données",
+      "Elle garantit un accès illimité aux infrastructures informatiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles sont les obligations des entreprises en matière de reporting environnemental numérique selon la CSRD (Corporate Sustainability Reporting Directive) ? (ref cours 3)",
+    "choix": [
+      "Publier des rapports détaillés sur leur impact environnemental et les actions mises en place",
+      "Obliger leurs employés à utiliser uniquement des outils open-source",
+      "Mettre en place un data center interne dans chaque entreprise"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il important d’intégrer les critères environnementaux dès la conception d’un service numérique ? (ref cours 3)",
+    "choix": [
+      "Pour optimiser la consommation d’énergie et améliorer la durabilité du service",
+      "Pour garantir un accès plus rapide aux données",
+      "Pour limiter le nombre d’utilisateurs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles pratiques permettent de réduire l’empreinte carbone d’un site web ? (ref cours 3)",
+    "choix": [
+      "Limiter le nombre de requêtes serveur, compresser les fichiers et optimiser les images",
+      "Augmenter la taille des bases de données",
+      "Utiliser uniquement des polices spécifiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il recommandé d’héberger un service numérique chez un fournisseur certifié ISO 14001 ? (ref cours 3)",
+    "choix": [
+      "Parce que cela garantit une gestion environnementale efficace des infrastructures",
+      "Parce que cela accélère le chargement des pages web",
+      "Parce que cela réduit les coûts de stockage des données"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principes clés d’un développement logiciel éco-conçu ? (ref cours 3)",
+    "choix": [
+      "Optimisation du code, limitation des ressources et réduction des interactions inutiles avec les serveurs",
+      "Ajout systématique de nouvelles fonctionnalités sans analyse préalable",
+      "Utilisation uniquement des frameworks récents"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi faut-il éviter les animations et vidéos superflues dans un service numérique ? (ref cours 3)",
+    "choix": [
+      "Elles augmentent la consommation énergétique et ralentissent les performances des appareils",
+      "Elles réduisent le temps de chargement des pages web",
+      "Elles améliorent la vitesse des connexions mobiles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l’un des objectifs principaux du Green UX ? (ref cours 3)",
+    "choix": [
+      "Optimiser l’expérience utilisateur tout en réduisant l’empreinte environnementale du service numérique",
+      "Augmenter la durée des sessions des utilisateurs",
+      "Obliger l’utilisateur à interagir avec plus d’éléments sur un site"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l’impact des emails sur l’environnement ? (ref cours 3)",
+    "choix": [
+      "Chaque email envoyé consomme de l’énergie, notamment via les data centers qui stockent les messages",
+      "Les emails ne consomment pas d’énergie",
+      "Les emails ne sont pas pris en compte dans l’empreinte carbone du numérique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment réduire l’impact environnemental de l’utilisation des emails ? (ref cours 3)",
+    "choix": [
+      "Supprimer les emails inutiles, limiter l’envoi de pièces jointes volumineuses et désactiver les notifications automatiques",
+      "Stocker tous ses emails sans les supprimer",
+      "Éviter d’utiliser une messagerie professionnelle"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi les référentiels Numérique Responsable sont-ils nécessaires ? (ref cours 3)",
+    "choix": [
+      "Ils permettent d’établir des standards pour réduire l’impact environnemental du numérique",
+      "Ils imposent une limitation sur l’utilisation d’Internet",
+      "Ils interdisent l’usage des équipements numériques anciens"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les piliers du Label Numérique Responsable (NR) ? (ref cours 3)",
+    "choix": [
+      "Environnement, éthique et inclusion",
+      "Cybersécurité, performance et coûts",
+      "Développement, migration cloud et accessibilité"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la finalité du RGESN (Référentiel Général d'Écoconception de Services Numériques) ? (ref cours 3)",
+    "choix": [
+      "Fournir des recommandations pour développer des services numériques durables et optimisés",
+      "Accélérer l’adoption de nouvelles technologies numériques",
+      "Encadrer uniquement l’ergonomie des interfaces web"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux enjeux des référentiels Numérique Responsable ? (ref cours 3)",
+    "choix": [
+      "Réduction de l’empreinte carbone, amélioration de la sobriété numérique et optimisation des services IT",
+      "Augmentation du nombre de data centers",
+      "Obligation pour les entreprises d’utiliser des logiciels propriétaires"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la principale différence entre un écolabel et une certification ? (ref cours 3)",
+    "choix": [
+      "Un écolabel est une reconnaissance basée sur des critères environnementaux, tandis qu'une certification est validée par un organisme officiel",
+      "Un écolabel concerne uniquement les logiciels",
+      "Une certification est attribuée sans audit externe"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la conformité aux référentiels Numérique Responsable est-elle un enjeu stratégique pour les entreprises ? (ref cours 3)",
+    "choix": [
+      "Elle permet d’améliorer leur image, de répondre aux régulations et de réduire leurs coûts énergétiques",
+      "Elle les contraint à limiter leurs services numériques",
+      "Elle est obligatoire pour vendre des services en ligne"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les critères évalués dans l’AFNOR SPEC 2201 ? (ref cours 3)",
+    "choix": [
+      "Éco-conception, accessibilité, mesure d’impact et gestion des infrastructures",
+      "Vitesse d’exécution des applications",
+      "Nombre d’utilisateurs actifs sur un site web"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le rôle du référentiel GRI (Global Reporting Initiative) dans le Numérique Responsable ? (ref cours 3)",
+    "choix": [
+      "Définir des standards de reporting extra-financier pour mesurer l’impact environnemental des entreprises",
+      "Fixer des seuils de consommation électrique pour les data centers",
+      "Encadrer la cybersécurité des entreprises"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles actions peuvent être mises en place pour rendre un service numérique plus sobre ? (ref cours 3)",
+    "choix": [
+      "Limiter la consommation énergétique des serveurs, optimiser le code et réduire la taille des médias",
+      "Augmenter la capacité de stockage des serveurs",
+      "Multiplier les mises à jour logicielles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la gouvernance des données est-elle un levier clé du numérique responsable ? (ref cours 3)",
+    "choix": [
+      "Elle permet de limiter la surconsommation des ressources IT en évitant le stockage inutile",
+      "Elle empêche la circulation des informations dans une entreprise",
+      "Elle oblige à supprimer toutes les bases de données inutilisées"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est l’un des objectifs des labels environnementaux pour les services numériques ? (ref cours 3)",
+    "choix": [
+      "Garantir que les services numériques respectent des critères stricts de performance énergétique et de durabilité",
+      "Augmenter le nombre d’utilisateurs sur les plateformes web",
+      "Imposer l’utilisation exclusive d’énergies fossiles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment un site web peut-il être conçu pour minimiser son empreinte écologique ? (ref cours 3)",
+    "choix": [
+      "En optimisant les images, en réduisant le nombre de requêtes serveur et en limitant les animations inutiles",
+      "En utilisant un design plus complexe avec plus de polices de caractères",
+      "En intégrant des vidéos en lecture automatique sur toutes les pages"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il recommandé d’héberger un service numérique chez un prestataire certifié ISO 50001 ? (ref cours 3)",
+    "choix": [
+      "Parce que cela garantit une gestion optimale de l’énergie dans les infrastructures IT",
+      "Parce que cela améliore la connectivité Internet",
+      "Parce que cela limite l’usage des logiciels propriétaires"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux critères d’évaluation d’un service numérique responsable selon le RGESN ? (ref cours 3)",
+    "choix": [
+      "Performance énergétique, durabilité du matériel, accessibilité et impact environnemental",
+      "Popularité du service auprès des utilisateurs",
+      "Taux de disponibilité des serveurs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la principale conséquence d’un code informatique non optimisé ? (ref cours 3)",
+    "choix": [
+      "Une surconsommation des ressources matérielles et énergétiques",
+      "Une amélioration des performances des serveurs",
+      "Une diminution de la consommation électrique"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi l’analyse du cycle de vie (ACV) est-elle importante dans le numérique responsable ? (ref cours 3)",
+    "choix": [
+      "Elle permet d’évaluer l’impact environnemental d’un service numérique à chaque étape, de sa conception à son déploiement",
+      "Elle empêche l’évolution des technologies",
+      "Elle oblige les entreprises à utiliser du matériel reconditionné"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux leviers d’action pour améliorer l’impact environnemental des infrastructures IT ? (ref cours 3)",
+    "choix": [
+      "Virtualisation des serveurs, optimisation des réseaux et transition vers des énergies renouvelables",
+      "Augmentation du stockage cloud sans optimisation",
+      "Utilisation exclusive de matériel neuf"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux objectifs du module 4 sur la mise en œuvre du numérique responsable ? (ref cours 4)",
+    "choix": [
+      "Définir une stratégie numérique responsable, réaliser un audit et mettre en place une politique d’achats responsables",
+      "Améliorer la vitesse des systèmes informatiques",
+      "Remplacer systématiquement les anciens équipements numériques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les trois axes principaux pour déployer une stratégie numérique responsable ? (ref cours 4)",
+    "choix": [
+      "Stratégie, gouvernance et audit",
+      "Performance, cybersécurité et stockage",
+      "Développement de logiciels, intelligence artificielle et blockchain"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle est la première étape pour élaborer une stratégie numérique responsable ? (ref cours 4)",
+    "choix": [
+      "Réaliser un état des lieux et identifier les parties prenantes",
+      "Investir dans des serveurs de dernière génération",
+      "Remplacer tous les logiciels propriétaires par des solutions open-source"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le rôle de la gouvernance dans une stratégie numérique responsable ? (ref cours 4)",
+    "choix": [
+      "Définir une feuille de route, coordonner les actions et assurer le suivi des objectifs",
+      "Remplacer les équipements tous les 2 ans",
+      "Limiter l’accès aux services numériques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les éléments clés d'une politique d’achats numériques responsables ? (ref cours 4)",
+    "choix": [
+      "Inclusion de critères environnementaux, éthiques et sociaux dans les appels d’offres",
+      "Réduction des coûts sans prise en compte de l’impact environnemental",
+      "Achat exclusif de matériels neufs et performants"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels outils peuvent être utilisés pour mesurer l’impact environnemental du numérique dans une organisation ? (ref cours 4)",
+    "choix": [
+      "Bilan Carbone®, analyse du cycle de vie (ACV) et suivi des indicateurs de consommation énergétique",
+      "Nombre de téléchargements d’une application",
+      "Fréquence des mises à jour logicielles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Que permet la méthode Bilan Carbone® dans le cadre du numérique responsable ? (ref cours 4)",
+    "choix": [
+      "Évaluer et quantifier les émissions de gaz à effet de serre d’un système d’information",
+      "Calculer la performance d’un processeur",
+      "Mesurer la rapidité d’un site web"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les critères d’évaluation d’un audit numérique responsable ? (ref cours 4)",
+    "choix": [
+      "Consommation énergétique, gestion des équipements, optimisation des infrastructures et sensibilisation des utilisateurs",
+      "Nombre de lignes de code écrites",
+      "Taux de disponibilité des serveurs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il important d’intégrer une démarche d’éco-conception dans le développement numérique ? (ref cours 4)",
+    "choix": [
+      "Pour réduire la consommation de ressources et optimiser les performances des services numériques",
+      "Pour compliquer l’accès aux applications",
+      "Pour augmenter le nombre de fonctionnalités disponibles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principes clés d’un cahier des charges pour un achat numérique responsable ? (ref cours 4)",
+    "choix": [
+      "Prendre en compte la durabilité, la réparabilité, l’empreinte carbone et l’inclusion sociale des équipements et services",
+      "S’assurer uniquement du prix le plus bas",
+      "Favoriser les produits les plus récents sans considération environnementale"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les leviers d’action pour réduire l’empreinte carbone d’un système d’information ? (ref cours 4)",
+    "choix": [
+      "Optimisation des infrastructures, virtualisation des serveurs et mutualisation des ressources",
+      "Augmentation de la puissance des serveurs",
+      "Suppression de toutes les applications inutilisées"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la formation et la sensibilisation des équipes sont-elles essentielles dans une stratégie numérique responsable ? (ref cours 4)",
+    "choix": [
+      "Elles permettent une meilleure adoption des bonnes pratiques et une réduction de l’empreinte écologique du numérique",
+      "Elles augmentent la consommation d’énergie des services numériques",
+      "Elles empêchent les employés d’utiliser les nouvelles technologies"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les bénéfices d’un audit des infrastructures numériques d’une organisation ? (ref cours 4)",
+    "choix": [
+      "Identification des leviers d’amélioration, réduction des coûts énergétiques et amélioration des performances",
+      "Augmentation de la consommation énergétique",
+      "Encouragement au remplacement systématique des équipements"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les axes d’amélioration prioritaires pour un système d’information plus durable ? (ref cours 4)",
+    "choix": [
+      "Efficacité énergétique, mutualisation des ressources, recyclage et optimisation des logiciels",
+      "Augmentation du stockage des données",
+      "Migration obligatoire vers le cloud"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il essentiel de prendre en compte l’accessibilité dans un projet numérique responsable ? (ref cours 4)",
+    "choix": [
+      "Pour garantir un accès équitable aux services numériques et favoriser l’inclusion",
+      "Pour limiter l’utilisation des services numériques",
+      "Pour encourager l’obsolescence des anciens équipements"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels indicateurs permettent d’évaluer l’impact des centres de données sur l’environnement ? (ref cours 4)",
+    "choix": [
+      "PUE (Power Usage Effectiveness), CUE (Carbon Usage Effectiveness), WUE (Water Usage Effectiveness)",
+      "Nombre de serveurs installés",
+      "Capacité de stockage totale"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles sont les principales étapes pour mettre en place une stratégie Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "Définir une gouvernance, évaluer l’impact, établir des objectifs et suivre leur mise en œuvre",
+      "Acheter des équipements informatiques neufs chaque année",
+      "Remplacer tous les logiciels propriétaires par des solutions open-source"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il essentiel de cartographier les impacts environnementaux d’un système d’information ? (ref cours 4)",
+    "choix": [
+      "Pour identifier les postes les plus énergivores et mettre en place des actions ciblées",
+      "Pour garantir une meilleure cybersécurité",
+      "Pour améliorer l’ergonomie des interfaces utilisateurs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux axes d’un plan d’action pour réduire l’empreinte carbone d’un système d’information ? (ref cours 4)",
+    "choix": [
+      "Optimisation des infrastructures, choix de fournisseurs éco-responsables et sensibilisation des utilisateurs",
+      "Augmentation de la capacité des serveurs",
+      "Migration obligatoire vers les data centers basés en Europe"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment la virtualisation des serveurs contribue-t-elle au Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "Elle permet de mutualiser les ressources et de réduire la consommation énergétique",
+      "Elle améliore la rapidité d’exécution des logiciels",
+      "Elle augmente la taille des bases de données"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il recommandé d’adopter un modèle de cloud mutualisé ? (ref cours 4)",
+    "choix": [
+      "Parce qu’il permet une meilleure optimisation des ressources et réduit l’empreinte carbone",
+      "Parce qu’il garantit une connexion Internet plus rapide",
+      "Parce qu’il empêche l’obsolescence des serveurs"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les bénéfices de la mise en œuvre d’un plan d’achats numériques responsables ? (ref cours 4)",
+    "choix": [
+      "Réduction des déchets électroniques, optimisation des coûts et amélioration de l’impact environnemental",
+      "Augmentation des performances des ordinateurs",
+      "Diminution du nombre de licences logicielles achetées"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels critères sont essentiels dans une politique d’achats responsables en numérique ? (ref cours 4)",
+    "choix": [
+      "Durabilité, réparabilité, efficacité énergétique et impact environnemental",
+      "Coût le plus bas et disponibilité immédiate",
+      "Obligation d’acheter du matériel neuf uniquement"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les impacts de l’augmentation du stockage cloud sur l’environnement ? (ref cours 4)",
+    "choix": [
+      "Augmentation de la consommation énergétique et des émissions de CO2 des data centers",
+      "Réduction de la consommation énergétique grâce aux serveurs centralisés",
+      "Suppression des besoins en équipements locaux"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment l’intelligence artificielle peut-elle contribuer au Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "En optimisant la gestion des infrastructures IT et en réduisant la consommation énergétique",
+      "En augmentant la capacité de traitement des serveurs",
+      "En remplaçant les employés par des algorithmes"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il nécessaire de sensibiliser les collaborateurs au Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "Parce que leur comportement numérique a un impact direct sur la consommation énergétique et les émissions de CO2",
+      "Parce que cela limite leur utilisation des nouvelles technologies",
+      "Parce que cela réduit les coûts de formation"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment un programme de sensibilisation peut-il aider à réduire l’empreinte numérique d’une entreprise ? (ref cours 4)",
+    "choix": [
+      "En encourageant les bonnes pratiques, comme l’optimisation des emails et la gestion du stockage",
+      "En supprimant tous les fichiers inutiles automatiquement",
+      "En limitant l’utilisation des ordinateurs à certaines heures"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les avantages d’une gestion efficace du cycle de vie des équipements numériques ? (ref cours 4)",
+    "choix": [
+      "Réduction des déchets électroniques, optimisation des coûts et meilleure performance des infrastructures",
+      "Diminution de la connectivité Internet",
+      "Augmentation de la dépendance aux logiciels propriétaires"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quel est le principal objectif du Green IT dans une organisation ? (ref cours 4)",
+    "choix": [
+      "Réduire l’impact environnemental des technologies de l’information tout en maintenant leur efficacité",
+      "Remplacer les infrastructures existantes par des solutions plus puissantes",
+      "Encourager l’utilisation exclusive de logiciels open-source"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les indicateurs clés pour évaluer la durabilité d’un service numérique ? (ref cours 4)",
+    "choix": [
+      "Empreinte carbone, consommation énergétique, efficacité des infrastructures et accessibilité",
+      "Temps de réponse des serveurs",
+      "Nombre d’utilisateurs actifs par mois"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment l’écoconception des logiciels contribue-t-elle au Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "En réduisant la consommation de ressources et en optimisant l’exécution des tâches",
+      "En augmentant la fréquence des mises à jour",
+      "En favorisant des interfaces graphiques plus complexes"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la mesure de l’empreinte carbone d’un système informatique est-elle essentielle ? (ref cours 4)",
+    "choix": [
+      "Pour identifier les sources majeures de consommation énergétique et mettre en place des actions correctives",
+      "Pour limiter l’utilisation des ordinateurs en entreprise",
+      "Pour imposer une durée d’utilisation minimale aux logiciels"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les leviers d’action pour réduire l’empreinte écologique des data centers ? (ref cours 4)",
+    "choix": [
+      "Utilisation d’énergies renouvelables, optimisation des systèmes de refroidissement et virtualisation des serveurs",
+      "Augmentation du stockage cloud",
+      "Migration vers des infrastructures plus puissantes sans optimisation"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les piliers fondamentaux du Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "Réduction de l’empreinte environnementale, accessibilité numérique et éthique des usages",
+      "Augmentation de la puissance des serveurs et vitesse des réseaux",
+      "Suppression des anciens équipements pour toujours utiliser les derniers modèles"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les impacts environnementaux majeurs du numérique ? (ref cours 4)",
+    "choix": [
+      "Consommation énergétique, émissions de gaz à effet de serre, exploitation des ressources naturelles et déchets électroniques",
+      "Diminution de la consommation d’eau et réduction du CO2",
+      "Augmentation de la durée de vie des appareils numériques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il important d’optimiser la consommation énergétique des infrastructures IT ? (ref cours 4)",
+    "choix": [
+      "Pour réduire l’impact environnemental et les coûts liés à l’énergie",
+      "Pour augmenter la performance des serveurs",
+      "Pour rendre l’accès aux services plus rapide"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les critères de sélection pour des équipements numériques écoresponsables ? (ref cours 4)",
+    "choix": [
+      "Réparabilité, recyclabilité, efficacité énergétique et durée de vie prolongée",
+      "Disponibilité immédiate et prix le plus bas",
+      "Utilisation exclusive de matériaux synthétiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment limiter l’impact environnemental du stockage des données ? (ref cours 4)",
+    "choix": [
+      "Supprimer régulièrement les données inutiles, optimiser les bases de données et utiliser un stockage éco-responsable",
+      "Multiplier les sauvegardes sur différents serveurs",
+      "Stocker l’ensemble des données sans jamais les supprimer"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi l’optimisation des logiciels est-elle essentielle dans une stratégie Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "Elle réduit la consommation des ressources matérielles et améliore l'efficacité énergétique",
+      "Elle permet d'ajouter plus de fonctionnalités sans impact",
+      "Elle limite le nombre d'utilisateurs pouvant accéder aux logiciels"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les avantages du recours à des énergies renouvelables pour alimenter les data centers ? (ref cours 4)",
+    "choix": [
+      "Réduction des émissions de CO2 et diminution de l’empreinte carbone globale",
+      "Augmentation des coûts d’hébergement",
+      "Amélioration de la vitesse des requêtes serveur"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la gestion du cycle de vie des équipements informatiques est-elle cruciale ? (ref cours 4)",
+    "choix": [
+      "Elle permet de limiter la production de déchets électroniques et de maximiser l’utilisation des ressources",
+      "Elle empêche les entreprises d’acquérir du nouveau matériel",
+      "Elle entraîne une augmentation des coûts d’infrastructure"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les principaux indicateurs de performance pour évaluer l’impact d’un système d’information ? (ref cours 4)",
+    "choix": [
+      "Consommation énergétique, émissions de CO2, empreinte eau et durée de vie des équipements",
+      "Taux de rafraîchissement des pages web",
+      "Temps de réponse des applications"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les bénéfices d’une stratégie numérique responsable pour une entreprise ? (ref cours 4)",
+    "choix": [
+      "Réduction des coûts énergétiques, amélioration de l’image de marque et conformité aux régulations environnementales",
+      "Diminution du nombre de salariés",
+      "Augmentation des prix des services numériques"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi est-il important de former les collaborateurs aux bonnes pratiques du Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "Parce que leur comportement impacte directement la consommation énergétique et l’empreinte environnementale de l’organisation",
+      "Pour les empêcher d’utiliser des logiciels non autorisés",
+      "Pour les obliger à limiter leur utilisation d’Internet"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Comment intégrer l’accessibilité numérique dans un projet responsable ? (ref cours 4)",
+    "choix": [
+      "En respectant les normes WCAG, en optimisant les interfaces et en rendant les contenus accessibles aux personnes en situation de handicap",
+      "En augmentant la résolution des écrans",
+      "En limitant l’utilisation des images et des vidéos"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quelles actions permettent de réduire l’empreinte environnementale des emails ? (ref cours 4)",
+    "choix": [
+      "Supprimer les emails inutiles, éviter les pièces jointes volumineuses et privilégier le stockage local",
+      "Diminuer la taille des polices d’écriture dans les emails",
+      "Augmenter la fréquence des sauvegardes des emails"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi le télétravail peut-il être un levier du Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "Il réduit les déplacements, diminue la consommation d’énergie des bureaux et optimise l’usage des équipements",
+      "Il empêche les salariés d’accéder aux serveurs de l’entreprise",
+      "Il entraîne une augmentation de la consommation d’énergie"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Quels sont les défis liés à la mise en place d’une politique d’achats numériques responsables ? (ref cours 4)",
+    "choix": [
+      "Trouver des fournisseurs engagés, évaluer la durabilité des équipements et gérer le coût initial plus élevé",
+      "Obtenir des licences logicielles gratuites",
+      "Standardiser tous les équipements pour éviter l’innovation"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Pourquoi la mutualisation des infrastructures IT est-elle une bonne pratique en Numérique Responsable ? (ref cours 4)",
+    "choix": [
+      "Elle permet d’optimiser les ressources et de réduire la consommation énergétique",
+      "Elle améliore la rapidité des connexions Internet",
+      "Elle interdit l’utilisation de serveurs dédiés"
+    ],
+    "reponse": 1
+  }
+]
