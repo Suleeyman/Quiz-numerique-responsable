@@ -1,3 +1,3 @@
-# Quiz Communication en Entreprise
+# Quiz Numérique Responsable
 
-Quiz du cours de Communication en Entreprise affecté aux ingénieurs de trosième année en apprentissage à SupGalilée.
+Quiz du cours Numérique Responsable affecté aux ingénieurs informatique de trosième année en apprentissage à SupGalilée.
